@@ -16,10 +16,12 @@ product/data analytics and building a relocation path to Italy.
 - [**VK_Projects**](https://github.com/AnnShchuga/VK_Projects) — product & UX
   analytics portfolio: A/B tests with CUPED, market models with Monte Carlo,
   ML on texts, support-ticket analytics app
-- [**auto-dealer-marketing-roi**](https://github.com/AnnShchuga/auto-dealer-marketing-roi) —
-  capstone: joining GA + CRM data, ROMI methodology, sales funnel dashboard
 - [**game-analytics-capstone**](https://github.com/AnnShchuga/game-analytics-capstone) —
-  capstone: anomaly investigation, cohort analysis, CPI/LTV/ROI by campaign
+  final capstone of the Game Analytics program: anomaly investigation,
+  cohort analysis, CPI/LTV/ROI by ad campaign
+- [**Auto-Dealer-Marketing-ROI-Capstone-Project**](https://github.com/AnnShchuga/Auto-Dealer-Marketing-ROI-Capstone-Project) —
+  marketing analytics project: joining GA + CRM data, ROMI methodology,
+  sales funnel dashboard
 
 ## Design portfolio
 
